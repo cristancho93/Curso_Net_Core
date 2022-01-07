@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cris_\\Documents\\Platzi\\Platzi.csproj": {}
+    "C:\\Users\\cris_\\Documents\\Platzi\\Curso_Net_Core\\Platzi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cris_\\Documents\\Platzi\\Platzi.csproj": {
+    "C:\\Users\\cris_\\Documents\\Platzi\\Curso_Net_Core\\Platzi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cris_\\Documents\\Platzi\\Platzi.csproj",
+        "projectUniqueName": "C:\\Users\\cris_\\Documents\\Platzi\\Curso_Net_Core\\Platzi.csproj",
         "projectName": "Platzi",
-        "projectPath": "C:\\Users\\cris_\\Documents\\Platzi\\Platzi.csproj",
+        "projectPath": "C:\\Users\\cris_\\Documents\\Platzi\\Curso_Net_Core\\Platzi.csproj",
         "packagesPath": "C:\\Users\\cris_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cris_\\Documents\\Platzi\\obj\\",
+        "outputPath": "C:\\Users\\cris_\\Documents\\Platzi\\Curso_Net_Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cris_\\AppData\\Roaming\\NuGet\\NuGet.Config",
